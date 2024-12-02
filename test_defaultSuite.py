@@ -64,3 +64,6 @@ class TestDefaultSuite():
   def test_new_test(self):
     pass
    
+  @pytest.mark.xfail
+  def test_failed_test(self):
+    pass
