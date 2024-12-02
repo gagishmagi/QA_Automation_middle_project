@@ -1,0 +1,9 @@
+pytest==8.3.3
+pytest-html
+selenium
+webdriver-manager
+
+
+google-api-python-client
+oauth2client
+google-auth-oauthlib
