@@ -61,4 +61,6 @@ class TestDefaultSuite():
 
     assert search_result.text == "17"
   
+  def test_new_test(self):
+    pass
    
